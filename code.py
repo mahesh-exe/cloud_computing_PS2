@@ -8,3 +8,10 @@ sum = a + b
 print("First number:", a)
 print("Second number:", b)
 print("Sum:", sum)
+
+
+diff = a - b
+
+print("First number:", a)
+print("Second number:", b)
+print("subtracted:", diff)
